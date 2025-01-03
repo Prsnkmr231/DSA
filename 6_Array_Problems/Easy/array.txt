@@ -1,0 +1,10 @@
+Array is a data structure which contains  elements of same datatype as shown below.
+
+arr = [1,2,3,4,5,6,7]
+
+arr_string = ["prasanna","praveen","sagar","rajamohan","manoj"]
+
+but the lists in python can be used to store heterogenous collection of elements.In a single list we can stores int,string,char etc.
+
+In array the elements are stored in contagious memory allocations.But we are not able to predict the address of the array where it is
+stored. But we can access these elements using the index of the array. 
